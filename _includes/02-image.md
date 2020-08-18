@@ -1,1 +1,1 @@
-![Image of Daftpunk Cat] (https://octodex.github.com/images/daftpunktocat-thomas.gif)
+![Image of Roboto Cat] (https://octodex.github.com/images/Robotocat.png)
